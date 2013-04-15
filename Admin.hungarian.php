@@ -4,7 +4,7 @@
 global $settings, $scripturl;
 
 $txt['admin_boards'] = 'Fórumok';
-$txt['admin_users'] = 'Members';
+$txt['admin_users'] = 'Tagok';
 $txt['admin_newsletters'] = 'Newsletters';
 $txt['admin_edit_news'] = 'News';
 $txt['admin_groups'] = 'Membergroups';
