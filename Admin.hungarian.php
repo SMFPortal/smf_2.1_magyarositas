@@ -6,7 +6,7 @@ global $settings, $scripturl;
 $txt['admin_boards'] = 'Fórumok';
 $txt['admin_users'] = 'Tagok';
 $txt['admin_newsletters'] = 'Hírlevelek';
-$txt['admin_edit_news'] = 'News';
+$txt['admin_edit_news'] = 'Hírek';
 $txt['admin_groups'] = 'Membergroups';
 $txt['admin_members'] = 'Manage Members';
 $txt['admin_members_list'] = 'Below is a listing of all the members currently registered with your forum.';
